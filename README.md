@@ -1,11 +1,19 @@
 ### Hola, soy Chris! :smile:
 <br/>
 
-<img width=40 href="https://telegram.me/Chris_Klempau" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111708.svg?token=exp=1614569107~hmac=ae08dd53ae50beca64a1c0cdd50ef079">
 
-<img width=40 href="mailto:christian.klempau@uc.cl" src="https://www.flaticon.com/svg/vstatic/svg/646/646135.svg?token=exp=1614569196~hmac=23e6391e6bcac03bff485d2674f7bf1a">
+<p float="left">
+<a style="display: inline-block;" href="https://telegram.me/Chris_Klempau">
+<img border="0" width=40 href="https://telegram.me/Chris_Klempau" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111708.svg?token=exp=1614569107~hmac=ae08dd53ae50beca64a1c0cdd50ef079">
+</a>
+<a style="display: inline-block;" href="mailto:christian.klempau@uc.cl">
+<img width=40 src="https://www.flaticon.com/svg/vstatic/svg/646/646135.svg?token=exp=1614569196~hmac=23e6391e6bcac03bff485d2674f7bf1a">
+</a>
+<a style="display: inline-block;" href="https://www.instagram.com/christian_klempau/">
+<img width=35 height=40 src="https://www.flaticon.com/svg/vstatic/svg/1400/1400829.svg?token=exp=1614569488~hmac=f251a0d1b4e973258d378ef8f6e3c935">
+</a>
+</p>
 
-<img width=35 height=40 href="https://www.instagram.com/christian_klempau/" src="https://www.flaticon.com/svg/vstatic/svg/1400/1400829.svg?token=exp=1614569488~hmac=f251a0d1b4e973258d378ef8f6e3c935">
 
 - 🌱 I’m learning React, NodeJS, meditation.
 - 🤔 I’m happy to help with anything I can!
