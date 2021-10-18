@@ -22,6 +22,8 @@
 <img width=40 height=45 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   
 <img width=85 src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
+  
+<img width=50 src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png">
 <p/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
