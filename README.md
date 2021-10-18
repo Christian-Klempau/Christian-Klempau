@@ -20,6 +20,8 @@
 <img width=40 height=50 src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 
 <img width=40 height=45 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  
+<img width=40 height=45 src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
 <p/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
