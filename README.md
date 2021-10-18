@@ -21,7 +21,7 @@
 
 <img width=40 height=45 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   
-<img width=40 src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
+<img width=80 src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
 <p/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
