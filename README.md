@@ -9,6 +9,7 @@
 - 🤔 I’m happy to help with anything I can!
 - 💬 Ask me about music or anything Tech or Star Wars related :)
 - ⚡ Fun fact: I’m a bass-guitar player and can speak german too! :nerd_face:
+- Trying Rust and WebAssembly!
 
 ## Technologies
 <p float="left">
