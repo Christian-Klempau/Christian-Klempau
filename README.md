@@ -23,7 +23,7 @@
   
 <img width=85 src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
   
-<img width=50 src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png">
+<img width=40 src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png">
 <p/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
