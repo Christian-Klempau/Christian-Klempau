@@ -23,7 +23,7 @@
   
 <img width=85 src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
   
-<img width=50 src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png">
+<img width=50 src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png">
 <p/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
