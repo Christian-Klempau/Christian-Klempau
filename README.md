@@ -4,10 +4,11 @@
 
 ## Hola, soy Chris! :smile:
 
-
-- 🌱 I’m learning React, NodeJS, meditation.
+- 📙 Creator of OpenVerbum, open source AI transcriptions software.
+- 🌱 I’m learning React, Haskell, meditation.
 - 🤔 I’m happy to help with anything I can!
-- 💬 Ask me about music or anything Tech or Star Wars related :)
+- ✅ Backend, Geospacial applications, Cloud, DevOps.
+- 💬 Ask me about music or anything Tech, History or Star Wars related :)
 - ⚡ Fun fact: I’m a bass-guitar player and can speak german too! :nerd_face:
 - Trying Rust and WebAssembly!
 
